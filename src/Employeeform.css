@@ -1,0 +1,21 @@
+body{
+    background:linear-gradient(to right, #6757f0, #f69d9d);
+}
+
+.outer{
+    padding-left:  400px;
+    padding-right: 400px;
+}
+
+.form{
+    width:100%;
+    margin: auto;
+    padding: 10px;
+    border: 1px solid #2895e9;
+    border-radius: 5px;
+    background-color: #e5d1ec;
+  }
+
+ .button{
+    text-align: right;
+ }
